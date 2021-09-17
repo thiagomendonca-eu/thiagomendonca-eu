@@ -6,5 +6,5 @@ Apaixonado por tecnologia e inovação! ❤
 - Desenvolvedor Júnior.
 - Sistemas de Informação 6/8.
 
-Disponível para novos projetos. :vulcan_salute:
-Teste [Contatos](thiagodebugs.github.io/link-bio)
+Disponível para novos projetos. 🖖  
+[Contatos.](thiagodebugs.github.io/link-bio)
