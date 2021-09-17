@@ -8,8 +8,7 @@ Apaixonado por tecnologia e inovação! ❤
 
 Disponível para novos projetos. 🖖
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodebugs&layout=compact)Contatos](thiagodebugs.github.io/link-bio)
-🔗 **[Contatos](thiagodebugs.github.io/link-bio)**
+**[![](link.svg) Contatos](https://thiagodebugs.github.io/link-bio)**
 
 ---
 
