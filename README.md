@@ -1,4 +1,4 @@
-# Thiago Mendonça 🇧🇷
+# 👻 Thiago Mendonça 🇧🇷
 
 Apaixonado por tecnologia e inovação! ❤
 
