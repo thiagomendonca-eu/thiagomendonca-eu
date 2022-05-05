@@ -2,8 +2,8 @@
 
 Apaixonado por tecnologia e inovação! ❤
 
-- Analista em T.I.
-- Desenvolvedor Júnior.
+- Analista em Tecnologia da Informação.
+- Desenvolvedor de Sistemas.
 - Sistemas de Informação 6/8.
 
 Disponível para novos projetos. 🖖
