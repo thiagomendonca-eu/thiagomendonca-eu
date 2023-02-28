@@ -12,6 +12,8 @@ Disponível para novos projetos. 🖖
 
 ---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagodebugs&count_private=true&show_icons=true)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <div style="display: flex; justify-content: center; align-items: center;">
         <img style="margin: 0 5px" src="https://github-readme-stats.vercel.app/api?username=thiagodebugs&count_private=true&show_icons=true" alt="">
