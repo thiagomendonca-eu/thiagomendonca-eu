@@ -4,7 +4,7 @@ Apaixonado por tecnologia e inovação! ❤
 
 - Analista em Tecnologia da Informação.
 - Desenvolvedor de Sistemas.
-- Sistemas de Informação 7/8.
+- Sistemas de Informação 8/8.
 
 Disponível para novos projetos. 🖖
 
