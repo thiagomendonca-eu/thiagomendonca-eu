@@ -2,9 +2,9 @@
 
 Apaixonado por tecnologia e inovação! ❤
 
-• Desenvolvedor de Sistemas 👨‍💻
-• Sistemas de Informação 8/8 🎓
-• Apaixonado por tecnologia e inovação!
+- Desenvolvedor de Sistemas 👨‍💻
+- Sistemas de Informação 8/8 🎓
+- Apaixonado por tecnologia e inovação!
 
 **[![](link.svg) posy.com.br](https://posy.com.br)**
 
