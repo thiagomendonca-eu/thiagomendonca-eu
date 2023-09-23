@@ -12,7 +12,7 @@ Apaixonado por tecnologia e inovação! ❤
 
 <br>
 <!-- space-evenly on div readme.md -->
-<div align="center">
+<div>
     <img style="margin: 0 10px; height: 180px;" src="https://github-readme-stats.vercel.app/api?username=thiagodebugs&count_private=true&show_icons=true" alt="">
     <img style="margin: 0 10px; height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodebugs&layout=compact" alt="">
 </div>
