@@ -2,7 +2,7 @@
 
 Apaixonado por tecnologia e inovação! ❤
 
-- Desenvolvedor de Sistemas 👨‍💻
+- Desenvolvedor de Software 👨‍💻
 - Sistemas de Informação 8/8 🎓
 - Apaixonado por tecnologia e inovação!
 
