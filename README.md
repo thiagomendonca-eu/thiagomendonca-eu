@@ -1,10 +1,8 @@
 # Thiago Mendonça 🇧🇷
 
-Apaixonado por tecnologia e inovação! ❤
-
+- Apaixonado por tecnologia e inovação! ❤
 - Desenvolvedor de Software 👨‍💻
 - Sistemas de Informação 8/8 🎓
-- Apaixonado por tecnologia e inovação!
 
 **[![](link.svg) posy.com.br](https://posy.com.br)**
 
