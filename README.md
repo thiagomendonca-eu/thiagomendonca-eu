@@ -1,8 +1,7 @@
 # Thiago Mendonça 🇧🇷
 
-- Apaixonado por tecnologia e inovação! ❤
+- Diretor de Tecnologia @Singular-Model
 - Desenvolvedor de Software 👨‍💻
-- Sistemas de Informação 8/8 🎓
 
 **[![](link.svg) Singular Model](https://singularmodel.com.br)**
 
