@@ -4,7 +4,7 @@
 - Desenvolvedor de Software 👨‍💻
 - Sistemas de Informação 8/8 🎓
 
-**[![](link.svg) posy.com.br](https://posy.com.br)**
+**[![](link.svg) Singular Model](https://singularmodel.com.br)**
 
 ---
 
