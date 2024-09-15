@@ -3,7 +3,7 @@
 - Diretor de Tecnologia na Singular Model
 - Desenvolvedor de Software 👨‍💻
 
-**[![](link.svg) Singular Model](https://singularmodel.com.br)**
+**[![](link.svg) Zeine](https://zeine.com.br)**
 
 ---
 
