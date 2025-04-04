@@ -1,7 +1,6 @@
 # Thiago Mendonça 🇧🇷
 
-- Diretor de Tecnologia na Singular Model
-- Desenvolvedor de Software 👨‍💻
+- Diretor de Tecnologia na Zeine
 
 **[![](link.svg) Zeine](https://zeine.com.br)**
 
